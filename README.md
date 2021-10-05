@@ -30,4 +30,4 @@ Tools:
 I will use python because it contains libraries (pandas, Matplotlib, NumPy ,etc.), also for exploratory analysis and data cleaning will use SQlite or postgreSQL .
 
 
-'predictive-analytics‘
+#predictive-analytics
